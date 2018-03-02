@@ -30,7 +30,7 @@ For example, in the following image, the learner has completed all of the
 content in the "Welcome" part of the course, as well as some of the content in
 the "Week 1: Approach" part.
 
-.. image:: ../../shared/images/CourseOutlineProgress.png
+.. image:: ../../shared/images/course_nav_outline_startcourse.png
  :alt: The course outline, showing green check marks for completed content.
 
 In the following image, the learner has completed the first two units in the
